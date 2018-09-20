@@ -10,7 +10,9 @@ namespace Oracle
     {
         static void Main(string[] args)
         {
-
+            var a = string.Empty;
+            Console.WriteLine("Texte");
+            Console.ReadLine();
 
         }
     }
